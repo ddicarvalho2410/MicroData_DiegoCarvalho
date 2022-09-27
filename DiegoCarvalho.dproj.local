@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/26 21:16:16.155,=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 21:22:32.411,=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/26 21:24:15.673,C:\Personal\DiegoCarvalho\ufrmPedido.pas=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/26 21:24:15.673,C:\Personal\DiegoCarvalho\ufrmPedido.dfm=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/09/26 21:24:33.553,C:\Personal\DiegoCarvalho\ufrmPedido2.dfm=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/26 21:24:33.553,C:\Personal\DiegoCarvalho\ufrmPedido2.pas=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 21:24:38.195,C:\Personal\DiegoCarvalho\DiegoCarvalho.dproj=D:\Users\diego.carvalho\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/26 21:24:49.111,C:\Personal\DiegoCarvalho\udmPrincipal.dfm=C:\Personal\DiegoCarvalho\ufrmPedido.dfm</Transaction>
+    <Transaction>2022/09/26 21:24:49.111,C:\Personal\DiegoCarvalho\udmPrincipal.pas=C:\Personal\DiegoCarvalho\ufrmPedido.pas</Transaction>
+    <Transaction>2022/09/26 21:24:56.429,C:\Personal\DiegoCarvalho\ufrmPedido.dfm=C:\Personal\DiegoCarvalho\ufrmPedido2.dfm</Transaction>
+    <Transaction>2022/09/26 21:24:56.429,C:\Personal\DiegoCarvalho\ufrmPedido.pas=C:\Personal\DiegoCarvalho\ufrmPedido2.pas</Transaction>
+    <Transaction>2022/09/26 21:35:29.821,=C:\Personal\DiegoCarvalho\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 21:45:59.141,C:\Personal\DiegoCarvalho\Model\uModel.pas=C:\Personal\DiegoCarvalho\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 21:46:58.396,C:\Personal\DiegoCarvalho\View\ufrmPedido.dfm=C:\Personal\DiegoCarvalho\ufrmPedido.dfm</Transaction>
+    <Transaction>2022/09/26 21:46:58.396,C:\Personal\DiegoCarvalho\View\ufrmPedido.pas=C:\Personal\DiegoCarvalho\ufrmPedido.pas</Transaction>
+    <Transaction>2022/09/26 21:47:14.882,C:\Personal\DiegoCarvalho\Model\udmPrincipal.pas=C:\Personal\DiegoCarvalho\udmPrincipal.pas</Transaction>
+    <Transaction>2022/09/26 21:47:14.882,C:\Personal\DiegoCarvalho\Model\udmPrincipal.dfm=C:\Personal\DiegoCarvalho\udmPrincipal.dfm</Transaction>
+    <Transaction>2022/09/26 22:09:48.008,=C:\Personal\DiegoCarvalho\Unit1.pas</Transaction>
+    <Transaction>2022/09/26 22:13:42.900,C:\Personal\DiegoCarvalho\Controller\uController.pas=C:\Personal\DiegoCarvalho\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
